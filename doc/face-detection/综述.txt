@@ -1,2 +1,2 @@
-http://blog.jobbole.com/85783/
-https://facedetection.com/datasets/
+人脸检测的中文文章：http://blog.jobbole.com/85783/ 
+人脸检测和识别网站(数据集):https://facedetection.com/datasets/
